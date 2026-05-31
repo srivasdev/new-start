@@ -13,6 +13,4 @@ hiii
 <br>
 bhkk
 <br/>
-hello ji
-git stauts
 
